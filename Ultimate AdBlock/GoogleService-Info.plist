@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>93465092909-ukksi6m1dt5ds1jf0ltkfieh3ll7jj4i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.93465092909-ukksi6m1dt5ds1jf0ltkfieh3ll7jj4i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDnkPniSpXP2jodGz2rZoyMOgEtDsLI6f4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>93465092909</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.utilitymandevelopment.adblock</string>
+	<key>PROJECT_ID</key>
+	<string>petcam-dc31b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>petcam-dc31b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:93465092909:ios:9f526396dbbe23560169a4</string>
+	<key>DATABASE_URL</key>
+	<string>https://petcam-dc31b.firebaseio.com</string>
+</dict>
+</plist>

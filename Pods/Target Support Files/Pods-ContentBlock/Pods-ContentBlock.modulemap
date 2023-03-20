@@ -1,0 +1,6 @@
+framework module Pods_ContentBlock {
+  umbrella header "Pods-ContentBlock-umbrella.h"
+
+  export *
+  module * { export * }
+}
